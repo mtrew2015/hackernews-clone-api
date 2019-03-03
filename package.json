@@ -5,6 +5,7 @@
   "repository": "https://github.com/mtrew2015/hackernews-clone-api.git",
   "license": "MIT",
   "dependencies": {
-    "graphql-yoga": "^1.17.4"
+    "graphql-yoga": "^1.17.4",
+    "prisma-client-lib": "^1.27.4"
   }
 }
